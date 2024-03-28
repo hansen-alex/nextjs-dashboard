@@ -1,1 +1,1 @@
-# next-js-dashboard
+# nextjs-dashboard
